@@ -8,6 +8,7 @@ public class Demo2 {
 		int k=i+j;
 		System.out.println(k);
 		//commit 1 in New feature
+		//commit 2 in New feature
 	}
 
 }

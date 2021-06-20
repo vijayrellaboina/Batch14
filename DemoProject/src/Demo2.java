@@ -9,6 +9,7 @@ public class Demo2 {
 		System.out.println(k);
 		//commit 1 in New feature
 		//commit 2 in New feature
+		//modified lines in Demo2
 	}
 
 }
